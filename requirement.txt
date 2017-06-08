@@ -1,0 +1,6 @@
+requests
+argparse
+lxml
+BeautifulSoup
+ConfigParser
+googleapiclient
